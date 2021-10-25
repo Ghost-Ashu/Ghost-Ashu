@@ -1,5 +1,5 @@
 <h1 align="center">Hey! i'm Ghost 😶 </h1>
-<img src="https://tryhackme-badges.s3.amazonaws.com/GhostAshu.png" alt="TryHackMe">
+<a href="https://tryhackme.com/p/GhostAshu" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/GhostAshu.png" alt="TryHackMe"></a>
 <h3 align="center">A passionate Hacker and Developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost-ashu&label=Profile%20views&color=0e75b6&style=flat" alt="ghost-ashu" /> </p>
