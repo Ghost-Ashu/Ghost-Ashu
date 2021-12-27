@@ -1,3 +1,4 @@
+<h1 style=”color:red;”>Inline CSS in Red</h1>
 <p style=”font-family:Candara; color:yellow;”>Hey! i'm Ghost 😶</p>>
 <h3 align="left">Digital Badges:</h3>
 <a href="https://tryhackme.com/p/GhostAshu" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/GhostAshu.png" alt="TryHackMe"></a>
