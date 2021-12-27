@@ -1,7 +1,7 @@
 <h1 align="center">Hey! i'm Ghost 😶 </h1>
 <h3 align="left">Digital Badges:</h3>
 <a href="https://tryhackme.com/p/GhostAshu" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/GhostAshu.png" alt="TryHackMe"></a>
- <a href="https://dev.to/badge/hacktoberfest-2021" target="blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1l8Lf2vD--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Hacktoberfest2021" height="70" width="70" ></a>
+ <a href="https://dev.to/badge/hacktoberfest-2021" target="blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1l8Lf2vD--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Hacktoberfest2021" height="60" width="60" ></a>
 <h3 align="center">A passionate Hacker and Developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost-ashu&label=Profile%20views&color=0e75b6&style=flat" alt="ghost-ashu" /> </p>
