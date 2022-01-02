@@ -1,4 +1,4 @@
-<h1 align="center">Hey! i'm Ghost 😶 </h1>
+<h1 align="center">Hey! i'm Ghost 😶 </h1>       <iframe src="https://giphy.com/embed/5YMDSfui21JLi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ghost-transparent-happy-5YMDSfui21JLi">via GIPHY</a></p>
 
 <h3 align="left">Digital Badges:</h3>
 <a href="https://tryhackme.com/p/GhostAshu" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/GhostAshu.png" alt="TryHackMe"></a>
