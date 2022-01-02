@@ -1,4 +1,4 @@
-<h1 align="center">Hey! i'm Ghost 😶 </h1> 
+<h1 align="center">Hey! i'm Ghost 😶 </h1>   <p><img align="right" tsrc="https://github.com/Ghost-Ashu/Ghost-ashu/blob/main/ghost.gif" width="80 height="80"/></p>
 
 <h3 align="left">Digital Badges:</h3>
 <a href="https://tryhackme.com/p/GhostAshu" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/GhostAshu.png" alt="TryHackMe"></a>
