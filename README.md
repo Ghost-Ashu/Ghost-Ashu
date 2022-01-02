@@ -1,4 +1,4 @@
-<h1 align="center">Hey! i'm Ghost<img class="animated-gif" src="https://github.com/Ghost-Ashu/Ghost-ashu/blob/main/ghost.gif" height="90" width="70"> </h1>
+<h1 align="center">Hey! i'm Ghost<img class="animated-gif" src="https://github.com/Ghost-Ashu/Ghost-ashu/blob/main/ghost.gif" height="50" width="60"> </h1>
 
 
 <h3 align="left">Digital Badges:</h3>
