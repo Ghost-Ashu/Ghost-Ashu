@@ -1,4 +1,4 @@
-<h1 align="center"> <font face="Arial" size="20px" color="#FF7A59">Your text here.</font> Hey! i'm Ghost <img class="animated-gif" src="https://github.com/Ghost-Ashu/Ghost-ashu/blob/main/ghost.gif" height="80" width="80" </h1>
+<h1 align="center"> <font face="lobster" size="20px" color="#FF7A59">Your text here.</font> Hey! i'm Ghost <img class="animated-gif" src="https://github.com/Ghost-Ashu/Ghost-ashu/blob/main/ghost.gif" height="80" width="80" </h1>
 
 
 
