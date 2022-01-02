@@ -1,6 +1,5 @@
 <h1 align="center">Hey! i'm Ghost 😶 </h1>  
-<a img src="https://github.com/Ghost-Ashu/Ghost-ashu/blob/main/ghost.gif" alt="ghost" height="80" width="80" ></a>
-
+<img class="animated-gif" src="https://media.giphy.com/media/Wq6DnHvHchrTG/giphy.gif">
 
 <h3 align="left">Digital Badges:</h3>
 <a href="https://tryhackme.com/p/GhostAshu" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/GhostAshu.png" alt="TryHackMe"></a>
