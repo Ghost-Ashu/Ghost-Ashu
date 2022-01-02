@@ -1,4 +1,4 @@
-<h1 align="center"> Hey! i'm Ghost <img class="animated-gif" align="top" src="https://github.com/Ghost-Ashu/Ghost-ashu/blob/main/ghost.gif" height="75" width="70" </h1>
+<h1 align="center"> Hey! i'm Ghost <img class="animated-gif" align="top" src="https://github.com/Ghost-Ashu/Ghost-ashu/blob/main/ghost.gif" height="70" width="70" </h1>
 
 
 
