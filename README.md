@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ashutosh-kumar-singh951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-kumar-singh951" height="30" width="40" /></a>
 <a href="https://instagram.com/ashutosh_vox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh_vox" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ghost_ashu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ghost_ashu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ghost_ashu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ghost_ashu" height="35" width="35" /></a>
 <a href="https://www.hackerrank.com/ghost_ashu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ghost_ashu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ghost-ashu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghost-ashu" height="30" width="40" /></a>
 <a href="https://www.qwiklabs.com/public_profiles/9ee1d409-5342-4b96-bd6a-f7cc69bc82af" target="blank"><img src="https://www.codemithra.com/wp-content/uploads/2020/04/qwiklabs-logo.png" alt="Qwiklabs Profile" height="30" width="40"></a>
