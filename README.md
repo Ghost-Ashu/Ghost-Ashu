@@ -1,6 +1,6 @@
 <h1 align="center"> Hey! i'm Ghost <img class="animated-gif" align="top" src="https://github.com/Ghost-Ashu/Ghost-ashu/blob/main/ghost.gif" height="70" width="70" </h1>
 
-[![@GhostAshu's Holopin board](https://holopin.io/api/user/board?user=GhostAshu)](https://holopin.io/@GhostAshu)
+
 
 <h3 align="left">Digital Badges:</h3>
   <a href="https://tryhackme.com/p/GhostAshu" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/GhostAshu.png" alt="tryhackme"></a>
