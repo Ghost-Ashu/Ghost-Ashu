@@ -7,6 +7,7 @@
 <a href="https://www.qwiklabs.com/public_profiles/9ee1d409-5342-4b96-bd6a-f7cc69bc82af/badges/1521018" target="blank"><img src="https://cdn.qwiklabs.com/NvyXO5AuE%2BGy77mkc%2B%2FnQHl0qqLNjvUAMkiYzOB5g48%3D" alt="Diwali Qwiklabs 2021" height="65" width="65"></a>
  <a href="https://dev.to/badge/hacktoberfest-2021" target="blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1l8Lf2vD--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Hacktoberfest2021" height="60" width="60" ></a>
  <a href="https://tryhackme.com/GhostAshu/badges/adventofcyber3" target="blank"><img src="https://tryhackme.com/img/badges/adventofcyber.svg" alt="TryHackMe adventofcyber3" height="65" width="65"></a>
+ <a href="https://www.holopin.io/userbadge/cl8j3gq5e457009lcodu92fp5" target="blank"><img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="HacktOberFest 2022 Badge" height="65" width="65"></a>
 <h3 align="center">A passionate Hacker and <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>! from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost-ashu&label=Profile%20views&color=0e75b6&style=flat" alt="ghost-ashu" /> </p>
